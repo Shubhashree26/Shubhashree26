@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a data analyst and data science enthusiast with a passion for uncovering insights from complex datasets. I am dedicated to leveraging data-driven approaches to drive informed decision-making.
-- 📫 How to reach me: ...  [munotshubhashree@gmail.com]
+- 📫 How to reach me:  [munotshubhashree@gmail.com]()
 - Let's connect on LinkedIn to discuss more on Data Analytics. [My Linkedin Porfile](https://www.linkedin.com/in/shubhashree-munot-91447aa0/)
 
 ## Key Skills
