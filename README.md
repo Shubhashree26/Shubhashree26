@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 I am a data analyst and data science enthusiast with a passion for uncovering insights from complex datasets. I am dedicated to leveraging data-driven approaches to drive informed decision-making.
-- 📫 How to reach me:  [munotshubhashree@gmail.com]()
-- Let's connect on LinkedIn to discuss more on Data Analytics. [My Linkedin Porfile](https://www.linkedin.com/in/shubhashree-munot-91447aa0/)
 
 ## Key Skills
 - **Exploratory Data Analysis**
@@ -32,3 +29,7 @@ I am a data analyst and data science enthusiast with a passion for uncovering in
 - **Power BI** :  Hands-on experience in developing interactive dashboards and reports using Power BI, enabling stakeholders to gain valuable insights.
 [Visit my project portfolio on novyPro](https://www.novypro.com/profile_about/shubhashreemunot)
 - **Tableau** :  Proficient in creating interactive visualizations and dashboards in Tableau to effectively communicate data-driven insights.
+
+
+📫 How to reach me:  [munotshubhashree@gmail.com]()
+Let's connect on LinkedIn to discuss more on Data Analytics. [My Linkedin Porfile](https://www.linkedin.com/in/shubhashree-munot-91447aa0/)
