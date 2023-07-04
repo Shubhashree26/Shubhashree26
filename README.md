@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I'm Shubhashree Munot
+# Experienced in Exploratory Data Analysis || Data preparation || Data Visualization
 
 <!--
 **Shubhashree26/Shubhashree26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
