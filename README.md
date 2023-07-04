@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a data analyst and data science enthusiast with a passion for uncovering insights from complex datasets. I am dedicated to leveraging data-driven approaches to drive informed decision-making.
 
 ## Key Skills
-- *Exploratory Data Analysis*: Experienced in conducting in-depth exploratory data analysis to identify patterns, trends, and relationships in datasets using Python Libraries such as Numpy and Pandas.
+- **Exploratory Data Analysis**: Experienced in conducting in-depth exploratory data analysis to identify patterns, trends, and relationships in datasets using Python Libraries such as Numpy and Pandas.
 - *Data Cleaning and Preparation*
 - *Creating Data Visualizations*: Proficient in creating visually compelling and informative data visualizations using tools such as Python (Matplotlib, Seaborn), Tableau, and Power BI.
 [Visit my project portfolio on novyPro](https://www.novypro.com/profile_about/shubhashreemunot)
