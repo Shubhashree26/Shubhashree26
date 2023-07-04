@@ -25,9 +25,9 @@ I am a data analyst and data science enthusiast with a passion for uncovering in
 - **Probability and Statistical Knowledge**
 
 ## Technical Skills
-- ***SQL***: Proficient in writing complex SQL queries to extract, manipulate and analyze data from relational databases. Worked on MySQL, Postgre SQL & Google Big Query
-- *Python*: Experienced in utilizing Python for data manipulation, and analysis using libraries such as Pandas and NumPy.
-- *Excel*: Skilled in utilizing Excel for data cleaning, analysis, and creating insightful visualizations with charts and pivot tables.
-- *Power BI*: Hands-on experience in developing interactive dashboards and reports using Power BI, enabling stakeholders to gain valuable insights.
+- **SQL** : Proficient in writing complex SQL queries to extract, manipulate and analyze data from relational databases. Worked on MySQL, Postgre SQL & Google Big Query
+- **Python** : Experienced in utilizing Python for data manipulation, and analysis using libraries such as Pandas and NumPy.
+- **Excel** : Skilled in utilizing Excel for data cleaning, analysis, and creating insightful visualizations with charts and pivot tables.
+- **Power BI** : Hands-on experience in developing interactive dashboards and reports using Power BI, enabling stakeholders to gain valuable insights.
 [Visit my project portfolio on novyPro](https://www.novypro.com/profile_about/shubhashreemunot)
-- *Tableau*: Proficient in creating interactive visualizations and dashboards in Tableau to effectively communicate data-driven insights.
+- **Tableau** : Proficient in creating interactive visualizations and dashboards in Tableau to effectively communicate data-driven insights.
